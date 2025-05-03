@@ -145,47 +145,47 @@
           {
             "cursor": "#090909",
             "background": "#EEEFF0",
-            "selection": "#A8C6F4"
+            "selection": "#A8C6F466"
           },
           {
             "cursor": "#EA4B67",
             "background": "#EA4B67",
-            "selection": "#f7b7c2"
+            "selection": "#f7b7c266"
           },
           {
             "cursor": "#F57749",
             "background": "#F57749",
-            "selection": "#fbc9b6"
+            "selection": "#fbc9b666"
           },
           {
             "cursor": "#F8AB17",
             "background": "#F8AB17",
-            "selection": "#fcdda2"
+            "selection": "#fcdda266"
           },
           {
             "cursor": "#82B52A",
             "background": "#82B52A",
-            "selection": "#cde1aa"
+            "selection": "#cde1aa66"
           },
           {
             "cursor": "#3EB289",
             "background": "#3EB289",
-            "selection": "#b2e0d0"
+            "selection": "#b2e0d066"
           },
           {
             "cursor": "#3691F9",
             "background": "#3691F9",
-            "selection": "#afd3fd"
+            "selection": "#afd3fd66"
           },
           {
             "cursor": "#4A5FFF",
             "background": "#4A5FFF",
-            "selection": "#b7bfff"
+            "selection": "#b7bfff66"
           },
           {
             "cursor": "#7A5CFF",
             "background": "#7A5CFF",
-            "selection": "#cabeff"
+            "selection": "#cabeff66"
           }
         ],
         "syntax": {
@@ -519,47 +519,47 @@
           {
             "cursor": "#E0E1E4",
             "background": "#13101B",
-            "selection": "#6A3D88"
+            "selection": "#6A3D8866"
           },
           {
             "cursor": "#DB3552",
             "background": "#DB3552",
-            "selection": "#682438"
+            "selection": "#68243866"
           },
           {
             "cursor": "#E55F2E",
             "background": "#E55F2E",
-            "selection": "#6c342a"
+            "selection": "#6c342a66"
           },
           {
             "cursor": "#F8AB17",
             "background": "#F8AB17",
-            "selection": "#745321"
+            "selection": "#74532166"
           },
           {
             "cursor": "#74A827",
             "background": "#74A827",
-            "selection": "#3f5227"
+            "selection": "#3f522766"
           },
           {
             "cursor": "#3EA17F",
             "background": "#3EA17F",
-            "selection": "#2a4f4a"
+            "selection": "#2a4f4a66"
           },
           {
             "cursor": "#1A85F6",
             "background": "#1A85F6",
-            "selection": "#1b447a"
+            "selection": "#1b447a66"
           },
           {
             "cursor": "#3D5BFC",
             "background": "#3D5BFC",
-            "selection": "#29337c"
+            "selection": "#29337c66"
           },
           {
             "cursor": "#6D4DFF",
             "background": "#6D4DFF",
-            "selection": "#3c2d7d"
+            "selection": "#3c2d7d66"
           }
         ],
         "syntax": {
@@ -893,47 +893,47 @@
           {
             "cursor": "#E0E1E4",
             "background": "#090909",
-            "selection": "#225090"
+            "selection": "#22509066"
           },
           {
             "cursor": "#DB3552",
             "background": "#DB3552",
-            "selection": "#662431"
+            "selection": "#66243166"
           },
           {
             "cursor": "#E55F2E",
             "background": "#E55F2E",
-            "selection": "#6a3523"
+            "selection": "#6a352366"
           },
           {
             "cursor": "#F8AB17",
             "background": "#F8AB17",
-            "selection": "#725319"
+            "selection": "#72531966"
           },
           {
             "cursor": "#74A827",
             "background": "#74A827",
-            "selection": "#3d5220"
+            "selection": "#3d522066"
           },
           {
             "cursor": "#3EA17F",
             "background": "#3EA17F",
-            "selection": "#274f43"
+            "selection": "#274f4366"
           },
           {
             "cursor": "#1A85F6",
             "background": "#1A85F6",
-            "selection": "#194473"
+            "selection": "#19447366"
           },
           {
             "cursor": "#3D5BFC",
             "background": "#3D5BFC",
-            "selection": "#273375"
+            "selection": "#27337566"
           },
           {
             "cursor": "#6D4DFF",
             "background": "#6D4DFF",
-            "selection": "#3a2e76"
+            "selection": "#3a2e7666"
           }
         ],
         "syntax": {
